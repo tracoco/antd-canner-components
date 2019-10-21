@@ -3,7 +3,7 @@ import * as React from 'react';
 import {Modal, Table} from 'antd';
 import type {FieldId} from 'types/DefaultProps';
 import {isEqual, get} from 'lodash';
-import SyncToolbar from '@canner/antd-share-toolbar';
+import SyncToolbar from '@tracoco/antd-share-toolbar';
 
 type Props = {
   title: string,

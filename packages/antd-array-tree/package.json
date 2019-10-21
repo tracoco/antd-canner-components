@@ -1,5 +1,5 @@
 {
-  "name": "@canner/antd-array-tree",
+  "name": "@tracoco/antd-array-tree",
   "version": "0.5.20",
   "description": "array tree",
   "main": "lib/index.js",
@@ -16,7 +16,7 @@
   "author": "canner",
   "license": "ISC",
   "dependencies": {
-    "@canner/antd-locales": "^0.5.20"
+    "@tracoco/antd-locales": "^0.5.20"
   },
   "canner": {
     "cacheActions": true,

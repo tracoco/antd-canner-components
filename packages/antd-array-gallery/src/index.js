@@ -1,7 +1,7 @@
 // @flow
 
 import React, { Component } from "react";
-import Gallery from 'canner-image-gallery';
+import Gallery from '@tracoco/image-gallery';
 import {Modal} from 'antd';
 import { Item } from 'canner-helpers';
 import {injectIntl} from 'react-intl';

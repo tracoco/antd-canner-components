@@ -1,6 +1,6 @@
 // @flow
 import React, { PureComponent } from "react";
-import Card from "@canner/antd-share-card";
+import Card from "@tracoco/antd-share-card";
 
 // type
 import type {BooleanDefaultProps} from 'types/BooleanDefaultProps';

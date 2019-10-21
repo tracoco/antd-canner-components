@@ -1,7 +1,7 @@
 // @flow
 
 import React, { PureComponent } from "react";
-import CannerEditor from 'canner-slate-editor';
+import CannerEditor from '@tracoco/slate-editor';
 import {Value} from 'slate';
 import {State} from "markup-it";
 import html from 'markup-it/lib/html';

@@ -4,7 +4,7 @@ import { Tree, Input } from "antd";
 import update from 'lodash/update';
 import get from 'lodash/get';
 import {List} from 'react-content-loader'
-import SyncToolbar from '@canner/antd-share-toolbar';
+import SyncToolbar from '@tracoco/antd-share-toolbar';
 import type {RelationDefaultProps} from 'types/RelationDefaultProps';
 
 const TreeNode = Tree.TreeNode;

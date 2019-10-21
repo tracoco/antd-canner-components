@@ -1,7 +1,7 @@
 // @flow
 import React, { PureComponent } from "react";
 import { Select } from "antd";
-import defaultMessage from "@canner/antd-locales";
+import defaultMessage from "@tracoco/antd-locales";
 import {injectIntl, FormattedMessage} from 'react-intl';
 const Option = Select.Option;
 

@@ -1,5 +1,5 @@
 {
-  "name": "@canner/antd-object-editor",
+  "name": "@tracoco/antd-object-editor",
   "version": "0.5.29",
   "description": "object editor",
   "main": "lib/index.js",

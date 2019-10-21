@@ -2,8 +2,8 @@
 import * as React from "react";
 import { Icon, Table } from "antd";
 import difference from "lodash/difference";
-import Picker from '@canner/antd-share-relation';
-import {renderValue, getIntlMessage} from '@canner/antd-locales';
+import Picker from '@tracoco/antd-share-relation';
+import {renderValue, getIntlMessage} from '@tracoco/antd-locales';
 import {FormattedMessage} from "react-intl";
 // type
 import type {RelationDefaultProps} from 'types/RelationDefaultProps';

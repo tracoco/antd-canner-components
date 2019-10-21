@@ -1,4 +1,4 @@
-# @canner/antd-string-card
+# @tracoco/antd-string-card
 
 ## API
 

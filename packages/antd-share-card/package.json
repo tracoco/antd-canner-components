@@ -1,5 +1,5 @@
 {
-  "name": "@canner/antd-share-card",
+  "name": "@tracoco/antd-share-card",
   "version": "0.5.1",
   "description": "string card",
   "main": "lib/index.js",

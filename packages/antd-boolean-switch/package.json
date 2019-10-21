@@ -1,5 +1,5 @@
 {
-  "name": "@canner/antd-boolean-switch",
+  "name": "@tracoco/antd-boolean-switch",
   "version": "0.5.1",
   "description": "boolean-switch",
   "main": "lib/index.js",

@@ -4,7 +4,7 @@ import * as React from 'react';
 import { Input, Button, Tree, Alert, Icon } from 'antd';
 import update from 'lodash/update';
 import { FormattedMessage, injectIntl } from "react-intl";
-import defaultMessage from "@canner/antd-locales";
+import defaultMessage from "@tracoco/antd-locales";
 import styled from 'styled-components';
 import type {FieldId, FieldItems} from 'types/DefaultProps';
 import type {IntlShape} from 'react-intl';

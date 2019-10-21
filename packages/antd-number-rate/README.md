@@ -1,4 +1,4 @@
-# @canner/antd-number-rate
+# @tracoco/antd-number-rate
 
 ## API
 

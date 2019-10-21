@@ -1,5 +1,5 @@
 {
-  "name": "@canner/antd-array-slider",
+  "name": "@tracoco/antd-array-slider",
   "version": "0.5.1",
   "description": "array-slider",
   "main": "lib/index.js",

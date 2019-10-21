@@ -1,4 +1,4 @@
-# @canner/antd-string-radio
+# @tracoco/antd-string-radio
 
 ## API
 

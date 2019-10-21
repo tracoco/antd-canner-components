@@ -1,5 +1,5 @@
 {
-  "name": "@canner/antd-string-mde",
+  "name": "@tracoco/antd-string-mde",
   "version": "0.5.1",
   "description": "string markdown editor",
   "main": "lib/index.js",

@@ -4,7 +4,7 @@ import React, { Component } from "react";
 import { Modal } from "antd";
 
 import { FormattedMessage } from "react-intl";
-import defaultMessage from "@canner/antd-locales";
+import defaultMessage from "@tracoco/antd-locales";
 import {Item, ConfirmButton, ResetButton} from 'canner-helpers';
 import type {FieldId} from 'types/DefaultProps';
 

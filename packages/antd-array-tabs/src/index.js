@@ -1,8 +1,8 @@
 // @flow
 import React, { Component } from "react";
-import Tabs, { TabPane } from "@canner/rc-tabs";
-import TabContent from "@canner/rc-tabs/lib/TabContent";
-import ScrollableInkTabBar from "@canner/rc-tabs/lib/ScrollableInkTabBar";
+import Tabs, { TabPane } from "rc-tabs";
+import TabContent from "rc-tabs/lib/TabContent";
+import ScrollableInkTabBar from "rc-tabs/lib/ScrollableInkTabBar";
 import { Button, Icon, Modal } from "antd";
 import Sortable from "react-sortablejs";
 import {injectIntl} from 'react-intl';

@@ -1,4 +1,4 @@
-# @canner/antd-string-time-picker
+# @tracoco/antd-string-time-picker
 
 ## API
 

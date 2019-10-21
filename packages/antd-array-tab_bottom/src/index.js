@@ -1,7 +1,7 @@
 // @flow
 
 import React, { Component } from "react";
-import Tab from "@canner/antd-array-tabs";
+import Tab from "@tracoco/antd-array-tabs";
 import type {ArrayDefaultProps} from 'types/ArrayDefaultProps';
 
 type Props = ArrayDefaultProps<{[string]: any}> & {

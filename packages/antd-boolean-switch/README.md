@@ -1,4 +1,4 @@
-# @canner/antd-boolean-switch
+# @tracoco/antd-boolean-switch
 
 ## API
 

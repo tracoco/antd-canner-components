@@ -1,7 +1,7 @@
 // @flow
 import React, { PureComponent } from "react";
-import InputString from "@canner/antd-string-input";
-import defaultMessage from "@canner/antd-locales";
+import InputString from "@tracoco/antd-string-input";
+import defaultMessage from "@tracoco/antd-locales";
 import { FormattedMessage } from "react-intl";
 import styled from 'styled-components';
 

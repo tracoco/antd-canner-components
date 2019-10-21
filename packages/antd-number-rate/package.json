@@ -1,5 +1,5 @@
 {
-  "name": "@canner/antd-number-rate",
+  "name": "@tracoco/antd-number-rate",
   "version": "0.5.1",
   "description": "string input",
   "main": "lib/index.js",

@@ -3,7 +3,7 @@ import React, { PureComponent } from "react";
 import { Tag, Icon } from "antd";
 import template from 'lodash/template';
 import get from 'lodash.get';
-import Picker from '@canner/antd-share-relation';
+import Picker from '@tracoco/antd-share-relation';
 import {FormattedMessage} from 'react-intl';
 
 // type 

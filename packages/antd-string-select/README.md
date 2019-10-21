@@ -1,4 +1,4 @@
-# @canner/antd-string-textarea
+# @tracoco/antd-string-textarea
 
 ## API
 

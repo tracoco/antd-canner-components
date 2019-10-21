@@ -1,4 +1,4 @@
-# @canner/antd-boolean-card
+# @tracoco/antd-boolean-card
 
 ## API
 

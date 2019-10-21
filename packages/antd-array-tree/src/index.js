@@ -6,7 +6,7 @@ import AddModal from './addModal';
 import EditModal from './editModal';
 import { injectIntl } from "react-intl";
 import get from 'lodash/get';
-import Toolbar from '@canner/antd-share-toolbar';
+import Toolbar from '@tracoco/antd-share-toolbar';
 
 import Tree from './tree';
 

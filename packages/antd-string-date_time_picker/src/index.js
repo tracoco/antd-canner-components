@@ -1,7 +1,7 @@
 // @flow
 import React, { PureComponent } from "react";
 import { DatePicker } from "antd";
-import defaultMessage from "@canner/antd-locales";
+import defaultMessage from "@tracoco/antd-locales";
 import {injectIntl} from 'react-intl';
 import moment from 'moment-timezone';
 

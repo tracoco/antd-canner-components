@@ -6,7 +6,7 @@ import update from 'lodash/update';
 import difference from 'lodash/difference';
 import get from 'lodash/get';
 import {List} from 'react-content-loader';
-import SyncToolbar from '@canner/antd-share-toolbar';
+import SyncToolbar from '@tracoco/antd-share-toolbar';
 
 const TreeNode = Tree.TreeNode;
 const Search = Input.Search;

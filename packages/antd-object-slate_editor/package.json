@@ -1,5 +1,5 @@
 {
-  "name": "@canner/antd-object-slate_editor",
+  "name": "@tracoco/antd-object-slate_editor",
   "version": "0.5.1",
   "description": "object editor",
   "main": "lib/index.js",
@@ -12,7 +12,7 @@
   "author": "canner",
   "license": "ISC",
   "dependencies": {
-    "canner-slate-editor": "^1.5.4",
+    "@tracoco/slate-editor": "^1.5.5",
     "immutable": "^3.8.2",
     "markup-it": "^8.0.2",
     "slate": "^0.33.0",

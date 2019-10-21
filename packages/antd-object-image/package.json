@@ -1,5 +1,5 @@
 {
-  "name": "@canner/antd-object-image",
+  "name": "@tracoco/antd-object-image",
   "version": "0.5.20",
   "description": "object image",
   "main": "lib/index.js",
@@ -12,9 +12,9 @@
   "author": "canner",
   "license": "ISC",
   "dependencies": {
-    "@canner/antd-locales": "^0.5.20",
-    "@canner/image-service-config": "^0.3.0",
-    "@canner/image-upload": "^0.13.4",
+    "@tracoco/antd-locales": "^0.5.20",
+    "@tracoco/image-service-config": "^0.4.0",
+    "@tracoco/image-upload": "^0.14.1",
     "react-loading-image": "^0.4.1"
   },
   "peerDependencies": {

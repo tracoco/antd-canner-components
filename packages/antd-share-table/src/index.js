@@ -4,13 +4,13 @@ import React, { Component } from "react";
 import { Table, Button, Icon, Popconfirm } from "antd";
 import {get} from 'lodash';
 import { FormattedMessage } from "react-intl";
-import defaultMessage, {renderValue, getIntlMessage} from "@canner/antd-locales";
+import defaultMessage, {renderValue, getIntlMessage} from "@tracoco/antd-locales";
 import {injectIntl} from 'react-intl';
 
 import type {ArrayDefaultProps} from 'types/ArrayDefaultProps';
 import type {FieldItems} from 'types/DefaultProps';
 import {intlShape} from 'react-intl';
-import Toolbar from '@canner/antd-share-toolbar';
+import Toolbar from '@tracoco/antd-share-toolbar';
 
 const ButtonGroup = Button.Group;
 

@@ -1,4 +1,4 @@
-# @canner/antd-number-slider
+# @tracoco/antd-number-slider
 
 ## API
 

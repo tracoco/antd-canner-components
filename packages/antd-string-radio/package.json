@@ -1,5 +1,5 @@
 {
-  "name": "@canner/antd-string-radio",
+  "name": "@tracoco/antd-string-radio",
   "version": "0.5.1",
   "description": "string radio",
   "main": "lib/index.js",

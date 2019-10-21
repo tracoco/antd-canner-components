@@ -1,7 +1,7 @@
 // @flow
 
 import React, { Component } from "react";
-import Table from '@canner/antd-share-table';
+import Table from '@tracoco/antd-share-table';
 import PropTypes from 'prop-types';
 import type {FieldId, FieldItems, GotoFn} from 'types/DefaultProps';
 import {injectIntl, intlShape} from 'react-intl';

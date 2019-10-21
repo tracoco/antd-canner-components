@@ -1,5 +1,5 @@
 {
-  "name": "@canner/antd-indicator-list",
+  "name": "@tracoco/antd-indicator-list",
   "version": "0.5.1",
   "description": "indicator amount",
   "main": "lib/index.js",

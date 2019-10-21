@@ -1,5 +1,5 @@
 {
-  "name": "@canner/antd-string-textarea",
+  "name": "@tracoco/antd-string-textarea",
   "version": "0.5.29",
   "description": "string textarea",
   "main": "lib/index.js",

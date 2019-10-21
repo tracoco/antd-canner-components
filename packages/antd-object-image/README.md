@@ -1,4 +1,4 @@
-# @canner/antd-object-image
+# @tracoco/antd-object-image
 
 ## API
 

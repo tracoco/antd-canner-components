@@ -1,4 +1,4 @@
-# @canner/antd-share-card
+# @tracoco/antd-share-card
 
 ## API
 

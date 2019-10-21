@@ -1,5 +1,5 @@
 {
-  "name": "@canner/antd-object-options",
+  "name": "@tracoco/antd-object-options",
   "version": "0.5.1",
   "description": "object options",
   "main": "lib/index.js",

@@ -2,7 +2,7 @@
 import * as React from 'react';
 import Gallery from 'packages/antd-array-gallery';
 import cmsLocale from 'packages/antd-locales';
-import {ImgurStorage} from "@canner/storage";
+import {ImgurStorage} from "@tracoco/storage";
 import RefId from 'canner-ref-id';
 import {IntlProvider} from 'react-intl';
 import {Divider} from 'antd';

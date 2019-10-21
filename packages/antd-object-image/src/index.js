@@ -1,8 +1,8 @@
 // @flow
 import React, { PureComponent } from "react";
 import ShowImage from "./image/ShowImage";
-import EditImage from "@canner/image-upload";
-import defaultMessage from '@canner/antd-locales';
+import EditImage from "@tracoco/image-upload";
+import defaultMessage from '@tracoco/antd-locales';
 import {isArray} from 'lodash';
 import { Button } from "antd";
 import {FormattedMessage, injectIntl} from "react-intl";

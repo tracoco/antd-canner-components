@@ -1,5 +1,5 @@
 {
-  "name": "@canner/antd-array-gallery",
+  "name": "@tracoco/antd-array-gallery",
   "version": "0.5.26",
   "description": "array gallery",
   "main": "lib/index.js",
@@ -18,9 +18,9 @@
     "styled-components": ">=3.2.3"
   },
   "dependencies": {
-    "@canner/image-service-config": "^0.3.0",
-    "@canner/image-upload": "^0.14.1",
-    "canner-image-gallery": "^0.5.0"
+    "@tracoco/image-service-config": "^0.4.0",
+    "@tracoco/image-upload": "^0.14.1",
+    "@tracoco/image-gallery": "^0.6.2"
   },
   "devDependencies": {
     "enzyme": "^3.3.0",

@@ -5,7 +5,7 @@ import EditModal from "./editModal";
 import AddModal from "./addModal";
 import {injectIntl} from 'react-intl';
 import styled from 'styled-components';
-import Table from '@canner/antd-share-table';
+import Table from '@tracoco/antd-share-table';
 
 import type {ArrayDefaultProps} from 'types/ArrayDefaultProps';
 import type {FieldItems} from 'types/DefaultProps';

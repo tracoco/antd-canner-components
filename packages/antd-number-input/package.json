@@ -1,5 +1,5 @@
 {
-  "name": "@canner/antd-number-input",
+  "name": "@tracoco/antd-number-input",
   "version": "0.5.18",
   "description": "number input",
   "main": "lib/index.js",

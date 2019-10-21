@@ -1,5 +1,5 @@
 {
-  "name": "@canner/antd-locales",
+  "name": "@tracoco/antd-locales",
   "version": "0.5.20",
   "description": "plugins locals",
   "main": "lib/index.js",
